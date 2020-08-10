@@ -51,8 +51,8 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
-      - file: "site/content/products/_index.md"
-        label: "A Propos"
+      - file: "site/content/a-propos/_index.md"
+        label: "A propos"
         name: "Qui sommes-nous?"
         fields:
           - {label: Title, name: title, widget: string}
