@@ -1,12 +1,7 @@
 ---
 title: Contact
 logo: /img/logo.svg
-contact_entries:
-  - heading: Localisation
-    text: "Niamey/Niger, Douala/Cameroon"
-    
-  - heading: Heure d'ouverture
-    text: "Mercredi – Vendredi: 09:00 – 02:00"
+contact_entries: []
 ---
 
 We’d love to get in touch with you and hear your ideas and
